@@ -38,7 +38,7 @@ Los Angeles County is a heavily populated county in California with 10,004,300 p
 
 ## Column Dictionary
 
-![alt text](img/columnDictionary.png)
+[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_1/blob/master/data/edited_sat.csv "CLEANED 018-2019 SAT DATA")
 
 ## Outside Research:
 
